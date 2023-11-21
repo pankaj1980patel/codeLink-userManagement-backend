@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USERNAME": "ppcodelink",
+    "DB_PASSWORD": "ppcodelink",
+    "DB_NAME": "userManagement",
+    "JWT_KEY": "supersecret_dont_share",
+    "PORT": 5000
+  }
+}
